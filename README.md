@@ -1,23 +1,23 @@
-<!-- ░░░░░░░░░░░░░░░░  HERO BANNER  ░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░  HERO BANNER (WHITE / LIGHT BLUE)  ░░░░░░░░░░░░░░░░ -->
 <div align="center">
 
-  ![](https://capsule-render.vercel.app/api?type=waving&height=320&color=0:1E3C72,50:2A5298,100:6B46C1&text=Jerald%20R.%20Espares&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Cloud%20Specialist&fontColor=FFFFFF&animation=fadeIn&stroke=00E5FF&strokeWidth=1.8&descAlignY=62&fontAlignY=42&descSize=20&textBg=false&section=header)
+  ![](https://capsule-render.vercel.app/api?type=waving&height=320&color=0:FFFFFF,50:E0F2FE,100:BAE6FD&text=Jerald%20R.%20Espares&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Cloud%20Specialist&fontColor=0C4A6E&animation=fadeIn&stroke=0EA5E9&strokeWidth=1.8&descAlignY=62&fontAlignY=42&descSize=20&textBg=false&section=header)
 
 </div>
 
 <!-- ░░░░░░░░░░░░░░░░  TYPING ANIMATION  ░░░░░░░░░░░░░░░░ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=Building+enterprise+AI+systems+for+real+businesses;Architecting+multi-agent+LLM+orchestration;Cloud+%2B+Automation+%2B+End-to-End+Full-Stack;BSIT+%E2%80%99+26+%40+PHINMA-Araullo+University)](https://github.com/JeraldSpares)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=0EA5E9&center=true&vCenter=true&width=720&lines=Building+enterprise+AI+systems+for+real+businesses;Architecting+multi-agent+LLM+orchestration;Cloud+%2B+Automation+%2B+End-to-End+Full-Stack;BSIT+%E2%80%99+26+%40+PHINMA-Araullo+University)](https://github.com/JeraldSpares)
 
 </div>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeraldespares123@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeraldSpares)
-[![Salesforce](https://img.shields.io/badge/Salesforce_Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://salesforce.com/trailblazer/yd37qpumn2qb37ujtp)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/spar3s)
+[![Email](https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jeraldespares123@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=181717)](https://github.com/JeraldSpares)
+[![Salesforce](https://img.shields.io/badge/Salesforce-FFFFFF?style=for-the-badge&logo=salesforce&logoColor=00A1E0)](https://salesforce.com/trailblazer/yd37qpumn2qb37ujtp)
+[![Facebook](https://img.shields.io/badge/Facebook-FFFFFF?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://facebook.com/spar3s)
 
 </div>
 
@@ -53,31 +53,34 @@ I'm a **Full-Stack Engineer and AI Developer** with hands-on experience building
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,java,php,laravel&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,java,php,laravel&theme=light)](https://skillicons.dev)
 
 **Frontend & UI**
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,angular,vuejs,html,css,tailwind,bootstrap,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,angular,vuejs,html,css,tailwind,bootstrap,figma&theme=light)](https://skillicons.dev)
 
 **AI & LLM Orchestration**
 
-[![My Skills](https://skillicons.dev/icons?i=anthropic,gemini,openai&theme=dark)](https://skillicons.dev)
+![Claude](https://img.shields.io/badge/Claude-FFFFFF?style=for-the-badge&logo=anthropic&logoColor=D97757)
+![Gemini](https://img.shields.io/badge/Gemini-FFFFFF?style=for-the-badge&logo=google-gemini&logoColor=8E75B2)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-FFFFFF?style=for-the-badge&logo=openai&logoColor=74AA9C)
+![MCP](https://img.shields.io/badge/MCP-FFFFFF?style=for-the-badge&logo=anthropic&logoColor=0EA5E9)
 
 **Cloud & Infrastructure**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,vercel,cloudflare&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,vercel,cloudflare&theme=light)](https://skillicons.dev)
 
 **Databases**
 
-[![My Skills](https://skillicons.dev/icons?i=supabase,firebase,mongodb,mysql,postgres&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=supabase,firebase,mongodb,mysql,postgres&theme=light)](https://skillicons.dev)
 
 **Mobile**
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,react,flutter&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,react,flutter&theme=light)](https://skillicons.dev)
 
 **Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&theme=light)](https://skillicons.dev)
 
 </div>
 
@@ -89,13 +92,14 @@ I'm a **Full-Stack Engineer and AI Developer** with hands-on experience building
 
 <div align="center">
   <a href="https://github.com/JeraldSpares/DealerHub-AI-Powered-Vehicle-Financing-System-Nissan-Philippines">
-    <img src="https://raw.githubusercontent.com/JeraldSpares/DealerHub-AI-Powered-Vehicle-Financing-System-Nissan-Philippines/main/DEALERHUB%20STSTEM%20SCREENSHOTS/Screenshot%202026-05-04%20121733.png" alt="DealerHub Screenshot" width="100%"/>
+    <img src="https://raw.githubusercontent.com/JeraldSpares/JeraldSpares/main/assets/dealerhub.gif" alt="DealerHub Slideshow" width="100%"/>
   </a>
 </div>
 
 > Built for **Nissan Philippines**. An end-to-end AI system that automated vehicle loan evaluations and financial processing — **reduced manual turnaround by ~70%**, enabling faster credit decisions at scale.
 
-[![Stack](https://skillicons.dev/icons?i=python,nodejs,supabase,anthropic&theme=dark)](#)
+[![Stack](https://skillicons.dev/icons?i=python,nodejs,supabase&theme=light)](#)
+![Claude](https://img.shields.io/badge/Claude-FFFFFF?style=for-the-badge&logo=anthropic&logoColor=D97757)
 
 ---
 
@@ -103,13 +107,14 @@ I'm a **Full-Stack Engineer and AI Developer** with hands-on experience building
 
 <div align="center">
   <a href="https://github.com/JeraldSpares/EVA-MARKETING-AI-SHOWCASE">
-    <img src="https://raw.githubusercontent.com/JeraldSpares/EVA-MARKETING-AI-SHOWCASE/main/screenshots/AIChat-Eva.jpg" alt="EVA Bot Screenshot" width="100%"/>
+    <img src="https://raw.githubusercontent.com/JeraldSpares/JeraldSpares/main/assets/eva-bot.gif" alt="EVA Bot Slideshow" width="100%"/>
   </a>
 </div>
 
 > Architected for **Enderun Colleges**. A **27-agent Claude Opus platform** that automates content strategy, PR, and lead generation. Includes an always-on **Telegram bot** and **EVA Dashboard** integrated with GitHub Actions — the marketing team triggers campaigns via natural language and voice.
 
-[![Stack](https://skillicons.dev/icons?i=python,anthropic,github,nodejs&theme=dark)](#)
+[![Stack](https://skillicons.dev/icons?i=python,github,nodejs&theme=light)](#)
+![Claude](https://img.shields.io/badge/Claude-FFFFFF?style=for-the-badge&logo=anthropic&logoColor=D97757)
 
 ---
 
@@ -117,13 +122,13 @@ I'm a **Full-Stack Engineer and AI Developer** with hands-on experience building
 
 <div align="center">
   <a href="https://github.com/JeraldSpares/Automated-Test-of-Proficiency-in-Korean-TOPIK-Registration-System-Enderun-Colleges">
-    <img src="https://raw.githubusercontent.com/JeraldSpares/Automated-Test-of-Proficiency-in-Korean-TOPIK-Registration-System-Enderun-Colleges/main/screenshots/public-landing.jpg" alt="TOPIK Screenshot" width="100%"/>
+    <img src="https://raw.githubusercontent.com/JeraldSpares/JeraldSpares/main/assets/topik.gif" alt="TOPIK Slideshow" width="100%"/>
   </a>
 </div>
 
 > High-availability student registration portal for **Korean language proficiency testing** at Enderun. Integrated **Stripe, PayPal, PayMongo, GCash, and Maya** via Shopify API — handled peak-load submissions with **zero downtime**.
 
-[![Stack](https://skillicons.dev/icons?i=nodejs,typescript,mongodb&theme=dark)](#)
+[![Stack](https://skillicons.dev/icons?i=nodejs,typescript,mongodb&theme=light)](#)
 
 ---
 
@@ -131,13 +136,14 @@ I'm a **Full-Stack Engineer and AI Developer** with hands-on experience building
 
 <div align="center">
   <a href="https://github.com/JeraldSpares/EduAid-AI-Powered-Admissions-and-Scholarship-Portal-Enderun-Colleges">
-    <img src="https://raw.githubusercontent.com/JeraldSpares/EduAid-AI-Powered-Admissions-and-Scholarship-Portal-Enderun-Colleges/main/eduaid%20screenshots/01-landing-home.png" alt="EduAid Screenshot" width="100%"/>
+    <img src="https://raw.githubusercontent.com/JeraldSpares/JeraldSpares/main/assets/eduaid.gif" alt="EduAid Slideshow" width="100%"/>
   </a>
 </div>
 
 > Built an **intelligent scholarship evaluation engine** that automated student assessment workflows for Enderun — reduced admissions processing time and minimized human error in eligibility screening.
 
-[![Stack](https://skillicons.dev/icons?i=python,nextjs,supabase,anthropic&theme=dark)](#)
+[![Stack](https://skillicons.dev/icons?i=python,nextjs,supabase&theme=light)](#)
+![Claude](https://img.shields.io/badge/Claude-FFFFFF?style=for-the-badge&logo=anthropic&logoColor=D97757)
 
 ---
 
@@ -145,13 +151,13 @@ I'm a **Full-Stack Engineer and AI Developer** with hands-on experience building
 
 <div align="center">
   <a href="https://github.com/JeraldSpares/Academic-Management-System-AMS---Enderun-Colleges">
-    <img src="https://raw.githubusercontent.com/JeraldSpares/Academic-Management-System-AMS---Enderun-Colleges/main/AMS%20SCREENSHOTS/Screenshot%202026-05-09%20172246.png" alt="AMS Screenshot" width="100%"/>
+    <img src="https://raw.githubusercontent.com/JeraldSpares/JeraldSpares/main/assets/ams.gif" alt="AMS Slideshow" width="100%"/>
   </a>
 </div>
 
 > Centralized **institutional data and student records** into a unified platform for Enderun — a secure, scalable academic management ecosystem.
 
-[![Stack](https://skillicons.dev/icons?i=nextjs,typescript,postgres&theme=dark)](#)
+[![Stack](https://skillicons.dev/icons?i=nextjs,typescript,postgres&theme=light)](#)
 
 ---
 
@@ -159,13 +165,13 @@ I'm a **Full-Stack Engineer and AI Developer** with hands-on experience building
 
 <div align="center">
   <a href="https://github.com/JeraldSpares/Human-Resources-Management-System-Enderun-Colleges">
-    <img src="https://raw.githubusercontent.com/JeraldSpares/Human-Resources-Management-System-Enderun-Colleges/main/HRMS%20SCREENSHOTS/Screenshot%202026-05-09%20164227.png" alt="HR Portal Screenshot" width="100%"/>
+    <img src="https://raw.githubusercontent.com/JeraldSpares/JeraldSpares/main/assets/hrms.gif" alt="HR Portal Slideshow" width="100%"/>
   </a>
 </div>
 
 > Full-stack **Enterprise HR Portal** built with **Google Apps Script** and JavaScript. Centralized employee records and streamlined daily operations through **automated multi-level approval workflows** and interactive analytics.
 
-[![Stack](https://skillicons.dev/icons?i=javascript,gcp&theme=dark)](#)
+[![Stack](https://skillicons.dev/icons?i=javascript,gcp&theme=light)](#)
 
 ---
 
@@ -190,8 +196,8 @@ I'm a **Full-Stack Engineer and AI Developer** with hands-on experience building
 
 <div align="center">
 
-[![Jerald's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeraldSpares&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/JeraldSpares)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeraldSpares&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/JeraldSpares)
+[![Jerald's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeraldSpares&show_icons=true&theme=buefy&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/JeraldSpares)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeraldSpares&layout=compact&theme=buefy&hide_border=true&langs_count=8)](https://github.com/JeraldSpares)
 
 </div>
 
@@ -203,13 +209,13 @@ I'm a **Full-Stack Engineer and AI Developer** with hands-on experience building
 
 I'm open to **full-time roles**, **freelance work**, and **collaboration on AI/cloud projects**.
 
-[![Email](https://img.shields.io/badge/jeraldespares123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeraldespares123@gmail.com)
+[![Email](https://img.shields.io/badge/jeraldespares123%40gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jeraldespares123@gmail.com)
 
 </div>
 
-<!-- ░░░░░░░░░░░░░░░░  FOOTER BANNER  ░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░  FOOTER BANNER (WHITE / LIGHT BLUE)  ░░░░░░░░░░░░░░░░ -->
 <div align="center">
 
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6B46C1,50:2A5298,100:1E3C72&text=Thanks%20for%20visiting!&fontSize=28&fontColor=FFFFFF&animation=fadeIn&stroke=00E5FF&strokeWidth=1.5&section=footer&fontAlignY=70)
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:BAE6FD,50:E0F2FE,100:FFFFFF&text=Thanks%20for%20visiting!&fontSize=28&fontColor=0C4A6E&animation=fadeIn&stroke=0EA5E9&strokeWidth=1.5&section=footer&fontAlignY=70)
 
 </div>
