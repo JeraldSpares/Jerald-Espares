@@ -53,50 +53,31 @@ I'm a **Full-Stack Engineer and AI Developer** with hands-on experience building
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,java,php,laravel&theme=dark)](https://skillicons.dev)
 
 **Frontend & UI**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,angular,vuejs,html,css,tailwind,bootstrap,figma&theme=dark)](https://skillicons.dev)
 
 **AI & LLM Orchestration**
 
-![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-2B2B2B?style=for-the-badge&logo=anthropic&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=anthropic,gemini,openai&theme=dark)](https://skillicons.dev)
 
 **Cloud & Infrastructure**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,vercel,cloudflare&theme=dark)](https://skillicons.dev)
 
 **Databases**
 
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=supabase,firebase,mongodb,mysql,postgres&theme=dark)](https://skillicons.dev)
 
-**Enterprise & Specialized**
+**Mobile**
 
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,react,flutter&theme=dark)](https://skillicons.dev)
+
+**Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -104,45 +85,75 @@ I'm a **Full-Stack Engineer and AI Developer** with hands-on experience building
 
 ## 🚀 Featured Projects
 
-#### 🚗 DealerHub — AI-Powered Vehicle Financing
-> Built for **Nissan Philippines**. End-to-end AI system that automated vehicle loan evaluations and financial processing — **reduced manual turnaround by ~70%**, enabling faster credit decisions at scale.
+### 🚗 DealerHub — AI-Powered Vehicle Financing
 
-`Python` · `Node.js` · `Multi-Agent AI` · `Cloud DB`
+<div align="center">
+  <img src="https://placehold.co/1200x400/1E3C72/00E5FF/png?text=DealerHub+Screenshot&font=raleway" alt="DealerHub Screenshot" width="100%"/>
+</div>
 
----
+> Built for **Nissan Philippines**. An end-to-end AI system that automated vehicle loan evaluations and financial processing — **reduced manual turnaround by ~70%**, enabling faster credit decisions at scale.
 
-#### 🤖 EVA Bot — Marketing AI System
-> Architected for **Enderun Colleges**. A **27-agent Claude Opus platform** that automates content strategy, PR, and lead generation. Includes an always-on **Telegram bot** and **EVA Dashboard** integrated with GitHub Actions, allowing the marketing team to trigger campaigns via natural language and voice.
-
-`Claude Opus` · `Multi-Agent` · `Telegram Bot` · `GitHub Actions`
+[![Stack](https://skillicons.dev/icons?i=python,nodejs,supabase,anthropic&theme=dark)](#)
 
 ---
 
-#### 🌏 TOPIK Registration System
+### 🤖 EVA Bot — Marketing AI System
+
+<div align="center">
+  <img src="https://placehold.co/1200x400/2A5298/00E5FF/png?text=EVA+Bot+Screenshot&font=raleway" alt="EVA Bot Screenshot" width="100%"/>
+</div>
+
+> Architected for **Enderun Colleges**. A **27-agent Claude Opus platform** that automates content strategy, PR, and lead generation. Includes an always-on **Telegram bot** and **EVA Dashboard** integrated with GitHub Actions — the marketing team triggers campaigns via natural language and voice.
+
+[![Stack](https://skillicons.dev/icons?i=python,anthropic,github,nodejs&theme=dark)](#)
+
+---
+
+### 🌏 TOPIK Registration System
+
+<div align="center">
+  <img src="https://placehold.co/1200x400/6B46C1/00E5FF/png?text=TOPIK+Registration+Screenshot&font=raleway" alt="TOPIK Screenshot" width="100%"/>
+</div>
+
 > High-availability student registration portal for **Korean language proficiency testing** at Enderun. Integrated **Stripe, PayPal, PayMongo, GCash, and Maya** via Shopify API — handled peak-load submissions with **zero downtime**.
 
-`Shopify API` · `Multi-Payment` · `Node.js`
+[![Stack](https://skillicons.dev/icons?i=nodejs,typescript,mongodb&theme=dark)](#)
 
 ---
 
-#### 🎓 EduAid — AI Admissions & Scholarship Portal
+### 🎓 EduAid — AI Admissions & Scholarship Portal
+
+<div align="center">
+  <img src="https://placehold.co/1200x400/1E3C72/00E5FF/png?text=EduAid+Screenshot&font=raleway" alt="EduAid Screenshot" width="100%"/>
+</div>
+
 > Built an **intelligent scholarship evaluation engine** that automated student assessment workflows for Enderun — reduced admissions processing time and minimized human error in eligibility screening.
 
-`AI Evaluation` · `Full-Stack` · `Automation`
+[![Stack](https://skillicons.dev/icons?i=python,nextjs,supabase,anthropic&theme=dark)](#)
 
 ---
 
-#### 📚 Academic Management System (AMS)
+### 📚 Academic Management System (AMS)
+
+<div align="center">
+  <img src="https://placehold.co/1200x400/2A5298/00E5FF/png?text=Academic+Management+System&font=raleway" alt="AMS Screenshot" width="100%"/>
+</div>
+
 > Centralized **institutional data and student records** into a unified platform for Enderun — a secure, scalable academic management ecosystem.
 
-`Full-Stack` · `Enterprise Data`
+[![Stack](https://skillicons.dev/icons?i=nextjs,typescript,postgres&theme=dark)](#)
 
 ---
 
-#### 👥 HR & Employee Portal
+### 👥 HR & Employee Portal
+
+<div align="center">
+  <img src="https://placehold.co/1200x400/6B46C1/00E5FF/png?text=HR+%26+Employee+Portal&font=raleway" alt="HR Portal Screenshot" width="100%"/>
+</div>
+
 > Full-stack **Enterprise HR Portal** built with **Google Apps Script** and JavaScript. Centralized employee records and streamlined daily operations through **automated multi-level approval workflows** and interactive analytics.
 
-`Google Apps Script` · `Workflow Automation` · `Analytics`
+[![Stack](https://skillicons.dev/icons?i=javascript,gcp&theme=dark)](#)
 
 ---
 
